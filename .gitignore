@@ -1,0 +1,12 @@
+#intellij
+.idea/
+.bsp/
+
+#sbt
+**/target/
+
+#vim
+*.swp
+
+#local logs
+log/
